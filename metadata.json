@@ -1,0 +1,8 @@
+{
+  "name": "Portfolio To Quoc Vinh",
+  "description": "One-page portfolio website for To Quoc Vinh - Marketing Executive. Designed with a dark neon yellow theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
